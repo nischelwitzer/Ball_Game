@@ -13,7 +13,7 @@ Lecture Ball Game Codes
 * Animation
 * ProBuilder
 
-<img src="./pic/inputactions.png" width="450">
+<img src="./pic/inputactions.png" width="550">
 
 ## Part 2
 * Menue
