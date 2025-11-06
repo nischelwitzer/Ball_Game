@@ -9,19 +9,30 @@ Lecture Ball Game Codes
 * Player Controll
   * Move
   * Jump
+  * isGrounded
 * Animation
+* ProBuilder
 
 ## Part 2
+* Menue
 * Collection (Tags)
 * Show Points
-* Camera 
-
-## Exkursion
-* FLIP
-
+* Camera
+  * Cinemachine
+  * Move in CamDirection
+  
 ## Part 3
+* Enemys, AI Navigation
+  * Navigation NavMash
+  * Obstacles
+* Pause
 * Szenen
 * Publizieren, EXE
+
+## Exkursion
+* FLIP - CoSA Graz
+
+<img src="./pic/hierarchy_ballgame.png" width="500">
 
 ## Tagging
 ```
