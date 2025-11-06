@@ -13,6 +13,8 @@ Lecture Ball Game Codes
 * Animation
 * ProBuilder
 
+<img src="./pic/inputactions.png" width="450">
+
 ## Part 2
 * Menue
 * Collection (Tags)
@@ -32,7 +34,7 @@ Lecture Ball Game Codes
 ## Exkursion
 * FLIP - CoSA Graz
 
-<img src="./pic/hierarchy_ballgame.png" width="500">
+<img src="./pic/hierarchy_ballgame.png" width="350">
 
 ## Tagging
 ```
