@@ -8,3 +8,5 @@ Lecture Ball Game Codes
 * Default
 * Simple
 * Menu
+
+<img src="./inputactions.png" width="550">
