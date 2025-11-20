@@ -6,31 +6,31 @@ Based on this Unity Tutorial: https://learn.unity.com/project/roll-a-ball
 
 <img src="./pic/ballgame.png" width="750">
 
-## Part 1 (#4)
-* GamePad
+## Part 1 (#4): Moving
+* GamePad (InputSystem, PlayerInput)
 * Player Controll
-  * Move
-  * Jump
-  * isGrounded
-* Animation
-* ProBuilder
+  * Jump (AddForce) 
+  * Move (LateUpdate, left Thumpstick)
+  * isGrounded (Collider, Tagging) 
+* Animation (Platform)
+* ProBuilder (Level Design) 
 
 <img src="./pic/inputactions.png" width="550">
 
-## Part 2
-* Menue
+## Part 2: Collecting
+* Menue (SceneManager) 
 * Collection (Tags)
-* Show Points
-* Camera
+* Show Points (TMPro)
+* Camera 
   * Cinemachine
-  * Move in CamDirection
+  * Move in CamDirection (right Thumpstick)
   
-## Part 3
+## Part 3: Publishing
 * Enemys, AI Navigation
   * Navigation NavMash
   * Obstacles
 * Pause
-* Szenen
+* Scenen
 * Publizieren, EXE
 
 ## Exkursion
